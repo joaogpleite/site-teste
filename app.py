@@ -13,7 +13,7 @@ def index():
 
 app.route("/sobre")
 def sobre():
-  return menu + "João Gabriel Leite é jornalista e Redator".
+  return menu + "João Gabriel Leite é jornalista e Redator."
 
 app.route("/contato")
 def contato():
